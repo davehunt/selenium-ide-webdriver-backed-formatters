@@ -1,0 +1,27 @@
+=================================================
+Name: Selenium IDE: WebDriver Backed Formatters
+Version: 1.0
+Requirements: Selenium IDE v1.0.5
+=================================================
+
+NOTE:
+This is a plugin for Selenium IDE that adds WebDriver backed Selenium 
+formatters, which allows users to take advantage of WebDriver without having to
+modify their tests to use the new API.
+
+INSTALLATION:
+1. Run build.bat (or build.sh on Linux).
+2. Open webdriver-backed-formatters.xpi in Firefox.
+
+REQUIREMENTS:
+To build on Windows you will need 7-Zip and Robocopy
+* 7-Zip - http://www.7-zip.org/
+* Robocopy - http://en.wikipedia.org/wiki/Robocopy
+
+CREDITS:
+* Adam Goucher - Author of the Selenium IDE plugin API 
+* Dave Hunt - Created the WebDriver Backed Selenium (Java) client formatters
+
+GETTING INVOLVED:
+This plugin is not complete, but should at least provide basic working 
+formatters. See the issues list if you're interested in contributing.
