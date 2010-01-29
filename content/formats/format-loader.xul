@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+ 
+<overlay id="webdriver_format_loader_overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+         xmlns:html="http://www.w3.org/1999/xhtml">
+    <script type="application/x-javascript" src="chrome://selenium-ide/content/api.js"/>
+    <html:script type="application/javascript">
+        var ide_api = new API();
+        ide_api.addPluginProvidedFormatter("java-junit-webdriver-backed", "Java (JUnit) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-junit-webdriver-backed.js");
+        ide_api.addPluginProvidedFormatter("java-junit4-webdriver-backed", "Java (JUnit4) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-junit4-webdriver-backed.js");
+        ide_api.addPluginProvidedFormatter("java-testng-webdriver-backed", "Java (TestNG) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-testng-webdriver-backed.js");
+    </html:script>
+</overlay>
