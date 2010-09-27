@@ -3,8 +3,8 @@
  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>webdriver-backed-formatters@dave.hunt</em:id>
-    <em:name>Selenium IDE: WebDriver Backed Formatters</em:name>
-    <em:version>1.0.1</em:version>
+    <em:name>WebDriver Backed Formatters</em:name>
+    <em:version>1.0.2</em:version>
     <em:creator>Dave Hunt</em:creator>
     <em:description>A plugin to add a WebDriver backed formatters to Selenium-IDE</em:description>
     <em:type>2</em:type> <!-- type extension -->

@@ -1,3 +1,3 @@
-content webdriver-backed-formatters  chrome/content/
+content webdriver-backed-formatters  content/
  
 overlay chrome://selenium-ide/content/selenium-ide-overlay.xul chrome://webdriver-backed-formatters/content/formats/format-loader.xul
