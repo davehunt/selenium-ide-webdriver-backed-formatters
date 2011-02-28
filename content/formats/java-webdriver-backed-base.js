@@ -1,5 +1,5 @@
 /*
- * Base for WebDriver Backed Selenium formats
+ * Base for Java WebDriver Backed Selenium formats
  */
 
 this.options = {
