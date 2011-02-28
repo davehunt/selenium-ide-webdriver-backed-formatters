@@ -21,7 +21,9 @@ To build on Windows you will need 7-Zip and Robocopy
 CREDITS:
 * Adam Goucher - Author of the Selenium IDE plugin API 
 * Dave Hunt - Created the WebDriver Backed Selenium (Java) client formatters
+* Justin Spradlin - Created the WebDriver Backed Selenium (C#) client formatters
 
 GETTING INVOLVED:
+https://github.com/davehunt/selenium-ide-webdriver-backed-formatters
 This plugin is not complete, but should at least provide basic working 
 formatters. See the issues list if you're interested in contributing.
