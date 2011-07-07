@@ -16,7 +16,7 @@ this.configForm =
     	'<textbox id="options_test_namespace" />' +
 		'<description>Variable for Selenium instance name</description>' +
     	'<textbox id="options_receiver" />' +
-		'<description>WebDriver Implementation</description>' +
+		'<description>WebDriver Namespace</description>' +
 		'<menulist id="options_driver_namespace"><menupopup>' +
 		'<menuitem label="OpenQA.Selenium.Firefox" value="OpenQA.Selenium.Firefox"/>' +
 		'<menuitem label="OpenQA.Selenium.Chrome" value="OpenQA.Selenium.Chrome"/>' +
