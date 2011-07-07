@@ -11,5 +11,6 @@
         ide_api.addPluginProvidedFormatter("java-junit-webdriver-backed", "Java (JUnit) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-junit-webdriver-backed.js");
         ide_api.addPluginProvidedFormatter("java-junit4-webdriver-backed", "Java (JUnit4) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-junit4-webdriver-backed.js");
         ide_api.addPluginProvidedFormatter("java-testng-webdriver-backed", "Java (TestNG) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/java-testng-webdriver-backed.js");
+		ide_api.addPluginProvidedFormatter("csharp-nunit-webdriver-backed", "C# (NUnit) - WebDriver Backed", "chrome://webdriver-backed-formatters/content/formats/csharp-nunit-webdriver-backed.js");
     </html:script>
 </overlay>

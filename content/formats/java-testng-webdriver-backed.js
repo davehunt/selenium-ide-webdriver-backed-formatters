@@ -3,7 +3,7 @@
  */
 
 load('chrome://webdriver-backed-formatters/content/formats/java-base.js');
-load('chrome://webdriver-backed-formatters/content/formats/webdriver-backed-base.js');
+load('chrome://webdriver-backed-formatters/content/formats/java-webdriver-backed-base.js');
 
 this.name = "java-testng-webdriver-backed";
 
